@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Ramiro 👋
+![me](https://ramirofraysse.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftitle.1ece132c.webp&w=256&q=75)
 
+```js
+  const ramiro = {
+    pronouns: "he" | "him",
+    code: ["Javascript","Typescript","HTML","CSS","PHP","MySQL"],
+    tools: ["React","Next","React Native","Storybook","BIT","Jest","Testing Library","Cypress","Material UI","Styled-Components"]
+  }
+```
+You can find me 🌎:
+[![linkedin](https://icongr.am/devicon/linkedin-original.svg?size=37&color=currentColor)](https://www.linkedin.com/in/ramiro-fraysse-404991215/)
 <!--
 **RamiroFraysse/RamiroFraysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
