@@ -9,7 +9,7 @@
   }
 ```
 You can find me 🌎:
-[![linkedin](https://icongr.am/devicon/linkedin-original.svg?size=37&color=currentColor)](https://www.linkedin.com/in/ramiro-fraysse-404991215/)
+[![portfolio](https://icongr.am/fontawesome/book.svg?size=20&color=68176d)](https://ramirofraysse.vercel.app/) [![linkedin](https://icongr.am/devicon/linkedin-original.svg?size=20&color=68176d)](https://www.linkedin.com/in/ramiro-fraysse-404991215/) [![instagram](https://icongr.am/entypo/instagram.svg?size=20&color=68176d)](https://www.instagram.com/ramirofraysse/)
 <!--
 **RamiroFraysse/RamiroFraysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
