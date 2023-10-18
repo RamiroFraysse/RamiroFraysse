@@ -10,9 +10,10 @@
 ```js
   const aboutMe = {
     pronouns: "he" | "him",
-    code: ["Javascript","Typescript","HTML","CSS","PHP","MySQL"],
+    languages: ["Javascript","Typescript","HTML","CSS","PHP","MySQL"],
     tools: ["React","Next","React Native","Storybook","BIT","Jest","Testing Library",
-            "Cypress","Material UI","Styled-Components"]
+            "Cypress","Material UI","Styled-Components"],
+    architecture: ["Clean architecture"]
   }
 ```
 <!-- [![Ramiro GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiroFraysse)](https://github.com/anuraghazra/github-readme-stats) -->
